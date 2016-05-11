@@ -1,0 +1,8 @@
+D:\Desenvolvimento\Teste\UUX\Projeto.Question01\Projeto.Question01\bin\Debug\Projeto.Question01.exe.config
+D:\Desenvolvimento\Teste\UUX\Projeto.Question01\Projeto.Question01\bin\Debug\Projeto.Question01.exe
+D:\Desenvolvimento\Teste\UUX\Projeto.Question01\Projeto.Question01\bin\Debug\Projeto.Question01.pdb
+D:\Desenvolvimento\Teste\UUX\Projeto.Question01\Projeto.Question01\obj\Debug\Projeto.Question01.exe
+D:\Desenvolvimento\Teste\UUX\Projeto.Question01\Projeto.Question01\obj\Debug\Projeto.Question01.pdb
+D:\Desenvolvimento\GitHub\CombinationListValue\Projeto.Question01\bin\Debug\Projeto.Question01.exe.config
+D:\Desenvolvimento\GitHub\CombinationListValue\Projeto.Question01\obj\Debug\Projeto.Question01.exe
+D:\Desenvolvimento\GitHub\CombinationListValue\Projeto.Question01\obj\Debug\Projeto.Question01.pdb
